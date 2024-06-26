@@ -912,3 +912,4 @@ Quote on |Wed, 26 Jun 2024 20:07:33 GMT| :  As you walk down the fairway of life
 Quote on |Wed, 26 Jun 2024 20:26:16 GMT| :  Successful people ask better questions, and as a result, they get better answers. - Tony Robbins
 Quote on |Wed, 26 Jun 2024 20:35:17 GMT| :  If you're changing the world, you're working on important things. You're excited to get up in the morning. - Larry Page
 Quote on |Wed, 26 Jun 2024 20:43:15 GMT| :  The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails. - William Arthur Ward
+Quote on |Wed, 26 Jun 2024 20:51:31 GMT| :  Programs must be written for people to read, and only incidentally for machines to execute. - Hal Abelson
