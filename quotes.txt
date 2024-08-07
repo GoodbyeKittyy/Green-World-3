@@ -5676,3 +5676,4 @@ Quote on |Wed, 07 Aug 2024 11:29:31 GMT| :  Before we acquire great power, we mu
 Quote on |Wed, 07 Aug 2024 11:37:47 GMT| :  In order to succeed, we must first believe that we can. - Nikos Kazantzakis
 Quote on |Wed, 07 Aug 2024 11:45:59 GMT| :  Opportunity does not knock, it presents itself when you beat down the door. - Kyle Chandler
 Quote on |Wed, 07 Aug 2024 11:54:03 GMT| :  The best way to pay for a lovely moment is to enjoy it. - Richard Bach
+Quote on |Wed, 07 Aug 2024 12:17:14 GMT| :  Opportunity is missed by most because it is dressed in overalls and looks like work. - Thomas Edison
